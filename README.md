@@ -5,7 +5,6 @@
 - 🔭.  Developing and maintaining [NGrid](https://shlomiassaf.github.io/ngrid/)
 - 👯.  Want to help buiding an enterprise grade grid? Contribute to [NGrid](https://github.com/shlomiassaf/ngrid)
 
-**In my day to day @ [ShareGain](https://sharegain.com/) I'm**
 <h3 align="left">In my day to day @ [ShareGain](https://sharegain.com/) I'm</h3>
 
 - Developing with C# & TypeScript
