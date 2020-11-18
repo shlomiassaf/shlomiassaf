@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋, I'm Shlomi
 
-<!--
-**shlomiassaf/shlomiassaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀.  Chief Architect @ [ShareGain](https://sharegain.com/) 
+- 🤫.  When no one is looking I love doing open source frontend... 
+- 🔭.  Developing and maintaining [NGrid](https://shlomiassaf.github.io/ngrid/)
+- 👯.  Want to help buiding an enterprise grade grid? Contribute to [NGrid](https://github.com/shlomiassaf/ngrid)
 
-Here are some ideas to get you started:
+In my day to day @ [ShareGain](https://sharegain.com/) I'm:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing with C# & TypeScript
+- Working on the Azure platform
+- Desiging for scale with microservices (dockerized .net core)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shlomiassaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shlomiassaf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shlomiassaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shlomiassaf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2629573" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2629573" height="30" width="40" /></a>
+<a href="https://medium.com/@shlomiassaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shlomiassaf" height="30" width="40" /></a>
+</p>
+
