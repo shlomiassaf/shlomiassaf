@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shlomi
 
-- 🚀.  Chief Architect @ [ShareGain](https://sharegain.com/) 
+- 🚀.  CTO @ [ShareGain](https://sharegain.com/) 
 - 🤫.  When no one is looking I love doing open source frontend... 
 - 🔭.  Developing and maintaining [NGrid](https://shlomiassaf.github.io/ngrid/)
 - 👯.  Want to help buiding an enterprise grade grid? Contribute to [NGrid](https://github.com/shlomiassaf/ngrid)
